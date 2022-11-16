@@ -1,0 +1,18 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:34:34.720	[34minfo[0m	E:/Go/Wallpaper/initialize/router.go:31	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:34:34.744	[34minfo[0m	E:/Go/Wallpaper/initialize/router.go:53	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:34:34.759	[34minfo[0m	E:/Go/Wallpaper/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:46:06.036	[34minfo[0m	E:/Go/Wallpaper/initialize/router.go:31	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:46:06.043	[34minfo[0m	E:/Go/Wallpaper/initialize/router.go:53	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:46:06.055	[34minfo[0m	E:/Go/Wallpaper/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:46:44.647	[34minfo[0m	E:/Go/Wallpaper/initialize/router.go:31	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:46:44.654	[34minfo[0m	E:/Go/Wallpaper/initialize/router.go:53	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:46:44.657	[34minfo[0m	E:/Go/Wallpaper/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:51:44.046	[34minfo[0m	E:/Go/Wallpaper/initialize/router.go:31	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:51:44.055	[34minfo[0m	E:/Go/Wallpaper/initialize/router.go:53	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:51:44.066	[34minfo[0m	E:/Go/Wallpaper/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:59:03.775	[34minfo[0m	E:/Go/Wallpaper/initialize/router.go:30	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:59:03.782	[34minfo[0m	E:/Go/Wallpaper/initialize/router.go:52	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 21:59:03.785	[34minfo[0m	E:/Go/Wallpaper/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 22:01:52.700	[34minfo[0m	E:/Go/Wallpaper/initialize/router.go:32	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 22:01:52.709	[34minfo[0m	E:/Go/Wallpaper/initialize/router.go:54	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/11/16 - 22:01:52.718	[34minfo[0m	E:/Go/Wallpaper/core/server.go:38	server run success on 	{"address": ":8888"}
